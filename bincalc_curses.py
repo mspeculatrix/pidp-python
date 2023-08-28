@@ -12,9 +12,6 @@ Demonstration of the non-threaded version of the PiDP Control Panel class.
 
 Version 1.01
 
-by Steve Mansfield-Devine
-http://www.lomcovak.com/speculatrix/
-
 Use this as you will. If you blog about what you do with it, a link would be
 the honourable thing to do.
 
